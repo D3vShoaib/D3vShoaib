@@ -1,5 +1,5 @@
 # ☄️ Shoaib Ahmad
-![shoaib banner](https://github.com/CodeaholicShoaib/CodeaholicShoaib/assets/127685413/0afb0821-2135-4754-859a-0c02f79ebad5](https://github.com/CodeaholicShoaib/CodeaholicShoaib/blob/fdfd80e483b7e1a306edb7dc5292c4a76041b92f/img/shoaib%20banner.jpg)
+![shoaib banner](https://github.com/CodeaholicShoaib/CodeaholicShoaib/assets/127685413/0afb0821-2135-4754-859a-0c02f79ebad5)
 
 **`Digital Knight (Developer/GraphicsDesigner)`**
 
