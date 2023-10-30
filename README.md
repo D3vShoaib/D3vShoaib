@@ -3,8 +3,7 @@
 
 **`Digital Knight (Developer/GraphicsDesigner)`**
 
-Hi there! i am Shoaib, a 2nd year student with a passion for programming and design.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that garnered more than 210,000 views. I take pride in creating visually appealing designs that resonate with audiences and am excited to continue growing my skills in both programming and design through platforms like GitHub.
-
+Hi there! i am Shoaib, a 2nd year student with a passion for programming and design.I possess proficiency in Python, the Django framework, as well as C/C++, and have over two years of professional experience in graphic design. As a successful freelancer, I have worked on various projects that garnered more than 210,000 views.
 
 ### Connect with me:
 
