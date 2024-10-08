@@ -1,7 +1,7 @@
 # ☄️ Shoaib Ahmad
 ![shoaib banner](https://github.com/CodeaholicShoaib/CodeaholicShoaib/assets/127685413/0afb0821-2135-4754-859a-0c02f79ebad5)
 
-**`Digital Knight (Developer/GraphicsDesigner)`**
+**`Digital Knight (Developer)`**
 
 Hi there! i am Shoaib, a 5th samester CS student, I possess proficiency in React & NodeJs, as well as C/C++
 
