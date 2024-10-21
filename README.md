@@ -3,7 +3,6 @@
 
 **`Digital Knight (Developer)`**
 
-Hi there! i am Shoaib, a 5th samester CS student, I possess proficiency in React & NodeJs, as well as C/C++
 
 ### Connect with me:
 
