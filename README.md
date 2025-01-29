@@ -12,8 +12,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/D3vShoaib#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/D3vShoaib#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_kokaop#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_kokaop#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/d3vshoaib#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/d3vshoaib#gh-dark-mode-only)
 &nbsp;&nbsp;
 ---
 
