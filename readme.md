@@ -1,16 +1,18 @@
 <h2>Hey 👋, I'm <a href="http://shoaib.is-a.dev/">Shoaib</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://androcoders.in/">Androcoders</a></strong>, building one of the best image upscalers out there (launching soon 🚀). I've also built scalable dashboards and automated them to free up dev time (because why not let the scripts do the heavy lifting?). When I’m not in dev mode, I’m ricing yet another custom FV Linux distro — it’s practically a lifestyle now.</p>
+<p><em>Build a legacy — or write legacy code. </em></p>
 
-<p>
-  <a href="https://twitter.com/D3vShoaib">
-    <img src="https://img.shields.io/badge/-@D3vShoaib-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=X&link=https://twitter.com/D3vShoaib" alt="Twitter Badge">
-  </a>
-  <a href="https://instagram.com/d3vshoaib">
-    <img src="https://img.shields.io/badge/-@d3vshoaib-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&link=https://instagram.com/d3vshoaib" alt="Instagram Badge">
-  </a>
-</p>
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/D3vShoaib#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/D3vShoaib#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/D3vShoaib#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/D3vShoaib#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/d3vshoaib#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/d3vshoaib#gh-dark-mode-only)
+&nbsp;&nbsp;
 
-<p><em>Build a legacy — or write legacy code. Choose your fighter.</em></p>
+
 <img align="right" style="margin-top: 20px;" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
@@ -20,8 +22,6 @@
 <li>👨‍💻 You’ll find most of my madness on <a href="https://github.com/D3vShoaib">GitHub</a></li>
 <li>💬 Ping me about <strong>React, Node, ML, TypeScript, and automations</strong></li>
 </ul>
-
-<hr>
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
