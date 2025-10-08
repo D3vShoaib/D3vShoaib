@@ -15,11 +15,8 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Shoaib Coding" width="100%" style="max-width: 350px; border-radius: 8px;" />
-    </td>
     <td width="50%" valign="top">
-      <h2>⚡️ A Few Quick Facts</h2>
+           <h2>⚡️ A Few Quick Facts</h2>
       <ul>
         <li>🔭 Currently working on an AI-powered image upscaler at <a href="https://androcoders.in/">Androcoders</a></li>
         <li>🧠 Geeking out over <strong>Networking</strong>, <strong>ML pipelines</strong>, and <strong>Dev tools</strong></li>
@@ -27,6 +24,9 @@
         <li>💬 Ping me about <strong>React, Node, ML, TypeScript, and automations</strong></li>
       </ul>
     </td>
+    <td width="50%" valign="top">
+     <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Shoaib Coding" width="100%" style="max-width: 350px; border-radius: 8px;" />
+    </td>    
   </tr>
 </table>
 
