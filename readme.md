@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="http://shoaib.is-a.dev/">Shoaib</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://androcoders.in/">Androcoders</a></strong>, building one of the best image upscalers out there (launching soon 🚀). I've also built scalable dashboards and automated them to free up dev time (because why not let the scripts do the heavy lifting?). When I’m not in dev mode, I’m ricing yet another custom FV Linux distro — it’s practically a lifestyle now.</p>
+<p>I'm currently a software engineer at <strong><a href="https://androcoders.in/">Androcoders</a></strong>, building one of the best image upscalers out there (launching soon 🚀). I've also built scalable dashboards and automated them to free up dev time (because why not let the scripts do the heavy lifting?). When I’m not in dev mode, I’m ricing yet another Linux distro — it’s a lifestyle noq ; ) .</p>
 <p><em>Build a legacy — or write legacy code. </em></p>
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/D3vShoaib#gh-light-mode-only)
